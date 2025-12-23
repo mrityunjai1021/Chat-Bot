@@ -1,0 +1,1 @@
+Answer the question as a football expert {inputText}. Give a JSON response that must contain 'content' as a key and your response as value.
